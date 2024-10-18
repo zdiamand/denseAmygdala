@@ -1,0 +1,114 @@
+{
+ "fg_av_eng_seg0.mp4": {
+  "duration": 906.1,
+  "nframes": 27183,
+  "fps": 30.0,
+  "frame_width": 1280,
+  "frame_height": 720
+ },
+ "fg_av_eng_seg0_soundcheck.mp4": {
+  "duration": 30.0,
+  "nframes": 900,
+  "fps": 30.0,
+  "frame_width": 1280,
+  "frame_height": 720
+ },
+ "fg_av_eng_seg1.mp4": {
+  "duration": 886.1666666666666,
+  "nframes": 26585,
+  "fps": 30.0,
+  "frame_width": 1280,
+  "frame_height": 720
+ },
+ "fg_av_eng_seg1_soundcheck.mp4": {
+  "duration": 30.0,
+  "nframes": 900,
+  "fps": 30.0,
+  "frame_width": 1280,
+  "frame_height": 720
+ },
+ "fg_av_eng_seg2.mp4": {
+  "duration": 880.1666666666666,
+  "nframes": 26405,
+  "fps": 30.0,
+  "frame_width": 1280,
+  "frame_height": 720
+ },
+ "fg_av_eng_seg2_soundcheck.mp4": {
+  "duration": 30.0,
+  "nframes": 900,
+  "fps": 30.0,
+  "frame_width": 1280,
+  "frame_height": 720
+ },
+ "fg_av_eng_seg3.mp4": {
+  "duration": 980.1333333333333,
+  "nframes": 29404,
+  "fps": 30.0,
+  "frame_width": 1280,
+  "frame_height": 720
+ },
+ "fg_av_eng_seg3_soundcheck.mp4": {
+  "duration": 30.0,
+  "nframes": 900,
+  "fps": 30.0,
+  "frame_width": 1280,
+  "frame_height": 720
+ },
+ "fg_av_eng_seg4.mp4": {
+  "duration": 928.1666666666666,
+  "nframes": 27845,
+  "fps": 30.0,
+  "frame_width": 1280,
+  "frame_height": 720
+ },
+ "fg_av_eng_seg4_soundcheck.mp4": {
+  "duration": 30.0,
+  "nframes": 900,
+  "fps": 30.0,
+  "frame_width": 1280,
+  "frame_height": 720
+ },
+ "fg_av_eng_seg5.mp4": {
+  "duration": 882.1666666666666,
+  "nframes": 26465,
+  "fps": 30.0,
+  "frame_width": 1280,
+  "frame_height": 720
+ },
+ "fg_av_eng_seg5_soundcheck.mp4": {
+  "duration": 30.0,
+  "nframes": 900,
+  "fps": 30.0,
+  "frame_width": 1280,
+  "frame_height": 720
+ },
+ "fg_av_eng_seg6.mp4": {
+  "duration": 1088.1666666666667,
+  "nframes": 32645,
+  "fps": 30.0,
+  "frame_width": 1280,
+  "frame_height": 720
+ },
+ "fg_av_eng_seg6_soundcheck.mp4": {
+  "duration": 30.0,
+  "nframes": 900,
+  "fps": 30.0,
+  "frame_width": 1280,
+  "frame_height": 720
+ },
+ "fg_av_eng_seg7.mp4": {
+  "duration": 679.1333333333333,
+  "nframes": 20374,
+  "fps": 30.0,
+  "frame_width": 1280,
+  "frame_height": 720
+ },
+ "fg_av_eng_seg7_soundcheck.mp4": {
+  "duration": 30.0,
+  "nframes": 900,
+  "fps": 30.0,
+  "frame_width": 1280,
+  "frame_height": 720
+ }
+}
